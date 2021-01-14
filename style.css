@@ -8,7 +8,8 @@
         
         .penguin-bg {
             background-color: #fff2f2;
-            height: 600px;
+            height: 800px;
+            padding-bottom: 5;
         }
         
         .green-photo {
@@ -25,6 +26,10 @@
             font-weight: bold;
             font-family: 'Fjalla One', sans-serif;
             font-size: 70px;
+        }
+        
+        .section-heading {
+            font-family: 'Fjalla One', sans-serif;
         }
         
         .black-berry {
@@ -57,4 +62,17 @@
             background-color: #1b1b5af5;
             box-shadow: 10px 10px 30px #dfdcf3;
             color: white;
+        }
+        
+        .last-section {
+            height: 400px;
+            width: 1300px;
+            background-color: #ebf1ef;
+            margin-top: 30px;
+            border-bottom: #5c5cbdcb solid 100px;
+        }
+        
+        .nice-button {
+            height: 30px;
+            width: 80px;
         }
