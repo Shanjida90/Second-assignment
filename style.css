@@ -1,0 +1,60 @@
+        .penguin-nav {
+            font-family: 'Montserrat', sans-serif;
+        }
+        
+        .happy-penguin {
+            width: 300px;
+        }
+        
+        .penguin-bg {
+            background-color: #fff2f2;
+            height: 600px;
+        }
+        
+        .green-photo {
+            height: 400px;
+            width: 400px;
+        }
+        
+        .own-color h1 {
+            font-family: 'Playfair Display', serif;
+            font-weight: 600px;
+        }
+        
+        span {
+            font-weight: bold;
+            font-family: 'Fjalla One', sans-serif;
+            font-size: 70px;
+        }
+        
+        .black-berry {
+            height: 70px;
+            width: 200px;
+            font-size: 20px;
+            border-radius: 10px;
+            font-weight: bold;
+        }
+        
+        .happy-shop {
+            height: 40%;
+            width: 30%;
+        }
+        
+        .second-section {
+            background-color: #ffffff;
+            margin-top: 90px;
+        }
+        
+        .third-section {
+            background-color: #ffffff;
+            margin-top: 90px;
+        }
+        
+        .blue-button {
+            height: 70px;
+            width: 190px;
+            border-radius: 10px;
+            background-color: #1b1b5af5;
+            box-shadow: 10px 10px 30px #dfdcf3;
+            color: white;
+        }
